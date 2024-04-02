@@ -1,0 +1,24 @@
+{
+    "time_slots": [
+      {"id": "TS1", "period": "Monday Morning 09-11"},
+      {"id": "TS2", "period": "Monday Morning 11-13"},
+      {"id": "TS3", "period": "Monday Afternoon 14-16"},
+      {"id": "TS4", "period": "Monday Afternoon 16-18"},
+      {"id": "TS5", "period": "Tuesday Morning 09-11"},
+      {"id": "TS6", "period": "Tuesday Morning 11-13"},
+      {"id": "TS7", "period": "Tuesday Afternoon 14-16"},
+      {"id": "TS8", "period": "Tuesday Afternoon 16-18"},
+      {"id": "TS9", "period": "Wednesday Morning 09-11"},
+      {"id": "TS10", "period": "Wednesday Morning 11-13"},
+      {"id": "TS11", "period": "Wednesday Afternoon 14-16"},
+      {"id": "TS12", "period": "Wednesday Afternoon 16-18"},
+      {"id": "TS13", "period": "Thursday Morning 09-11"},
+      {"id": "TS14", "period": "Thursday Morning 11-13"},
+      {"id": "TS15", "period": "Thursday Afternoon 14-16"},
+      {"id": "TS16", "period": "Thursday Afternoon 16-18"},
+      {"id": "TS17", "period": "Friday Morning 09-11"},
+      {"id": "TS18", "period": "Friday Morning 11-13"},
+      {"id": "TS19", "period": "Friday Afternoon 14-16"},
+      {"id": "TS20", "period": "Friday Afternoon 16-18"}
+    ]
+} 

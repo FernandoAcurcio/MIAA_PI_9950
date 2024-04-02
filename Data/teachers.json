@@ -1,0 +1,80 @@
+{
+    "teachers": [
+      {
+        "name": "Alex Rivera",
+        "lessons": ["0001", "0019", "0029"],
+        "unavailable_time_slots": ["TS1"]
+      },
+      {
+        "name": "Morgan Yu",
+        "lessons": ["0005", "0015", "0021"],
+        "unavailable_time_slots": ["TS2"]
+      },
+      {
+        "name": "Casey Hudson",
+        "lessons": ["0020", "0026", "0030"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Samantha Byrne",
+        "lessons": ["0003", "0007", "0012"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Jordan Peele",
+        "lessons": ["0027", "0008", "0018"],
+        "unavailable_time_slots": ["TS3", "TS4"]
+      },
+      {
+        "name": "Lila Cruz",
+        "lessons": ["0002", "0004", "0006"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Erik Selvig",
+        "lessons": ["0009", "0013", "0017"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Tara Markov",
+        "lessons": ["0022", "0028"],
+        "unavailable_time_slots": ["TS5"]
+      },
+      {
+        "name": "Nina Zenik",
+        "lessons": ["0010", "0011", "0014"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Leo Fitz",
+        "lessons": ["0023", "0024", "0025"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Simone Giertz",
+        "lessons": ["0007", "0016", "0022"],
+        "unavailable_time_slots": ["TS8"]
+      },
+      {
+        "name": "Tony Stark",
+        "lessons": ["0021", "0026", "0030"],
+        "unavailable_time_slots": ["TS16"]
+      },
+      {
+        "name": "Jemma Simmons",
+        "lessons": ["0009", "0013", "0018"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Bruce Banner",
+        "lessons": ["0010", "0011", "0014"],
+        "unavailable_time_slots": []
+      },
+      {
+        "name": "Maya Hansen",
+        "lessons": ["0023", "0024", "0025"],
+        "unavailable_time_slots": ["TS19", "TS20"]
+      }
+    ]
+  }
+  

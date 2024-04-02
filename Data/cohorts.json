@@ -1,0 +1,29 @@
+{
+    "cohorts": [
+      {
+        "name": "Future Innovators",
+        "number_of_students": 25,
+        "lessons": ["0001", "0005", "0014", "0020"],
+        "total_hours": 30
+      },
+      {
+        "name": "Art and Design Pioneers",
+        "number_of_students": 30,
+        "lessons": ["0003", "0007", "0012", "0013", "0023", "0024"],
+        "total_hours": 30
+      },
+      {
+        "name": "Digital Media Creatives",
+        "number_of_students": 28,
+        "lessons": ["0008", "0010", "0016", "0025", "0026", "0027"],
+        "total_hours": 30
+      },
+      {
+        "name": "Science and Environment Explorers",
+        "number_of_students": 22,
+        "lessons": ["0002", "0004", "0021", "0022", "0028"],
+        "total_hours": 26
+      }
+    ]
+  }
+  
